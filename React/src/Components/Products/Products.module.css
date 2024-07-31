@@ -1,0 +1,14 @@
+.editLayer{
+    transition: all ease-in-out 0.2s;
+}
+
+.editBuyBtn{
+    transform: translateY(-1000%);
+    transition: all ease-in-out 0.3s;
+}
+.product:hover .editLayer{
+    background-color: rgba(0, 0, 0, 0.4);
+}
+.product:hover .editBuyBtn{
+    transform: translateY(-500%);
+}

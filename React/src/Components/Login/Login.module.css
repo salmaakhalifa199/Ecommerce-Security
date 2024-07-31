@@ -1,0 +1,7 @@
+.editLink {
+    transition: all ease-in-out 0.1s;
+}
+
+.editLink:hover {
+    color: #0aad0a;
+}
